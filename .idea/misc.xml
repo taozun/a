@@ -8,6 +8,9 @@
     <option name="pathToConfigFileJava" value="D:/software/WeidaiMiddlewareEclipseJavaFormatter.xml" />
     <option name="selectedJavaProfile" value="WeidaiMiddleware" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/a1" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
